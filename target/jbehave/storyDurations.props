@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Fri Mar 16 11:41:52 BRT 2018
+threads=1
+total=7000
+stories/FirstATC.story=7000
+threadAverage=7000
